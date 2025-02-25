@@ -1,0 +1,15 @@
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\ĐẠI HỌC XÂY DỰNG ( ĐỒ ÁN)\công nghệ REVIT API\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
